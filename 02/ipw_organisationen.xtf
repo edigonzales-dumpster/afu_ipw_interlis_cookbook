@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSFER xmlns="http://www.interlis.ch/INTERLIS2.3">
+  <HEADERSECTION VERSION="2.3" SENDER="VSA">
+    <MODELS>
+      <MODEL NAME="SIA405_Base_Abwasser_LV95" URI="http://www.infogrips.ch" VERSION="29.05.2020"/>
+    </MODELS>
+    <ALIAS>
+      <ENTRIES FOR="SIA405_Base_Abwasser_LV95"> </ENTRIES>
+    </ALIAS>
+  </HEADERSECTION>
+  <DATASECTION>
+    <SIA405_Base_Abwasser_LV95.Administration BID="Basket1">
+      <SIA405_Base_Abwasser_LV95.Administration.Organisation TID="deg5mQXX20000001">
+        <Letzte_Aenderung>20110901</Letzte_Aenderung>
+        <Bezeichnung>Kanton Aargau, Dep. Bau, Verkehr &amp; Umwelt (BVU), Verkehrsinfrastruktur</Bezeichnung>
+        <Organisationstyp>Kanton</Organisationstyp>
+        <Status>aktiv</Status>
+        <UID>CHE100127635</UID>
+      </SIA405_Base_Abwasser_LV95.Administration.Organisation>
+    </SIA405_Base_Abwasser_LV95.Administration>
+  </DATASECTION>
+</TRANSFER>
